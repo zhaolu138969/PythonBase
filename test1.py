@@ -27,7 +27,7 @@ class Test2():
         print("文档自动生成测试2")
     def renren_2(self):
         '''
-        所以我们开发的时候就应该在这里写好文档，然后用Sphinx自动生成
+        所以我们开发的时候就应该在这里写好文档，然后用Sphinx自动生成 test
 
         :return: 
         '''
